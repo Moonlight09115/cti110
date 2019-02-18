@@ -1,2 +1,5 @@
 # cti110
-cti 110 Repository 
+# CTI 110 Repository
+Created for P2LAB1
+Knight
+17 February 2019
